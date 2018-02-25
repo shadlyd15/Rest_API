@@ -1,0 +1,32 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "Test Rest API",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadlyd15/Rest_API.git"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB"
+  ],
+  "author": "Shadly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadlyd15/Rest_API/issues"
+  },
+  "homepage": "https://github.com/shadlyd15/Rest_API#readme",
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7"
+  }
+}
