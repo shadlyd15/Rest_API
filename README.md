@@ -1,7 +1,7 @@
 # Rest_API
 Test Rest API
 
-#Setup
+# Setup
 Create "config" folder
 Create "database.config.js" file
 Add your database :
